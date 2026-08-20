@@ -2,7 +2,7 @@
 Here's a list of all Unicodes and their icons.
 Use them (for example in tellraw) using `\uUNICODE`. For Example:
 ```mcfunction
-tellraw @a {text:"\uF800 Modrinth",color:"green"}
+tellraw @a {text:"\uF801 Modrinth",color:"green"}
 ```
 
 > [!NOTE]
