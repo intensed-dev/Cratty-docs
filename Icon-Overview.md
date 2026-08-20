@@ -10,4 +10,6 @@ tellraw @a {text:"\uF800 Modrinth",color:"green"}
 
 | Unicode | Icon | Type |
 |:-------:|:----:|:----:|
-| F800 | Modrinth | Brands |
+| F800 | Cratty | affiliated Brands |
+| F801 | Modrinth | Brands |
+| F802 | GitHub | Brands |
