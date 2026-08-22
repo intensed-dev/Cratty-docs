@@ -10,12 +10,12 @@ tellraw @a {text:"\uF801 Modrinth",color:"green"}
 
 | Unicode | Icon | Icon Name | Last Change | Min Version | Contributor | affiliated |
 |:-------:|:----:|:---------:|:-----------:|:-------:|:-----------:|:----------:|
-| F800 | | Cratty | 1.0.0 | 1.0.0 | Intensed | ✅ |
-| F801 | | Modrinth | 1.0.0 | 1.0.0 | Intensed | ❌ |
-| F802 | | GitHub | 1.0.0 | 1.0.0 | Intensed | ❌ |
-| F803 | | Fallback | 1.0.0 | 1.0.0 | Intensed | ✅ |
-| F804 | | FabricMC | 1.0.0 | 1.0.0 | Intensed | ❌ |
-| F805 | | Neoforge | 1.0.0 | 1.0.0 | Intensed | ❌ |
+| F800 | ![cratty](assets/icons/cratty.png) | Cratty | 1.0.0 | 1.0.0 | Intensed | ✅ |
+| F801 | ![modrinth](assets/icons/modrinth.png) | Modrinth | 1.0.0 | 1.0.0 | Intensed | ❌ |
+| F802 | ![github](assets/icons/github.png) | GitHub | 1.0.0 | 1.0.0 | Intensed | ❌ |
+| F803 | ![fallback](assets/icons/fallback.png) | Fallback | 1.0.0 | 1.0.0 | Intensed | ✅ |
+| F804 | ![fabricmc](assets/icons/fabricmc.png) | FabricMC | 1.0.0 | 1.0.0 | Intensed | ❌ |
+| F805 | ![neoforge](assets/icons/neoforge.png) | Neoforge | 1.0.0 | 1.0.0 | Intensed | ❌ |
 | F806 | | Forge | 1.0.0 | 1.0.0 | Intensed | ❌ |
 | F807 | | QuiltMC | 1.0.0 | 1.0.0 | Intensed | ❌ |
 | F808 | | QuiltMC 2 | 1.0.0 | 1.0.0 | Intensed | ❌ |
