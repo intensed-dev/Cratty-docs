@@ -4,12 +4,13 @@ Use them (for example in tellraw) using `\uUNICODE`. For Example:
 ```mcfunction
 tellraw @a {text:"\uF801 Modrinth",color:"green"}
 ```
+Example Output: ![example](assets/icons/modrinth.png) Modrinth
 
 > [!NOTE]
 > Not Affiliated with Microsoft or Mojang or any of the brands/icons listed below (Exceptions listed). Not an official Product of these companies.
 
 | Unicode | Icon | Icon Name | Last Change | Min Version | Contributor | affiliated |
-|:-------:|:----:|:---------:|:-----------:|:-------:|:-----------:|:----------:|
+|:-------:|:----:|:---------:|:-----------:|:-----------:|:-----------:|:----------:|
 | F800 | ![cratty](assets/icons/cratty.png) | Cratty | 1.0.0 | 1.0.0 | Intensed | ✅ |
 | F801 | ![modrinth](assets/icons/modrinth.png) | Modrinth | 1.0.0 | 1.0.0 | Intensed | ❌ |
 | F802 | ![github](assets/icons/github.png) | GitHub | 1.0.0 | 1.0.0 | Intensed | ❌ |
